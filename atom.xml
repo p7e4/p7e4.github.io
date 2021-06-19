@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>p7e4</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://p7e4.js.org/"/>
+  <updated>2021-06-19T09:49:21.557Z</updated>
+  <id>https://p7e4.js.org/</id>
+  
+  <author>
+    <name>p7e4</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>构建Rapid7 opendata来查找子域和反查ip</title>
+    <link href="https://p7e4.js.org/2021/04/05/using-rapid7-opendata/"/>
+    <id>https://p7e4.js.org/2021/04/05/using-rapid7-opendata/</id>
+    <published>2021-04-05T14:28:09.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;好久没有更新博客了，这段时间在写资产平台的代码，而且预计还要写很久Orz.&lt;/p&gt;
+&lt;h2 id=&quot;数据下载&quot;&gt;&lt;a href=&quot;#数据下载&quot; class=&quot;headerlink&quot; title=&quot;数据下载&quot;&gt;&lt;/a&gt;数据下载&lt;/h2&gt;&lt;figure
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DOM-based XSS in MyBB before 1.8.24(CVE-2020-17447,CVE-2020-15139)</title>
+    <link href="https://p7e4.js.org/2020/08/10/mybb-dom-xss/"/>
+    <id>https://p7e4.js.org/2020/08/10/mybb-dom-xss/</id>
+    <published>2020-08-10T12:21:51.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今早查看邮件注意到MyBB爆出了一个XSS漏洞，跟进看一看&lt;/p&gt;
+&lt;h2 id=&quot;相关信息&quot;&gt;&lt;a href=&quot;#相关信息&quot; class=&quot;headerlink&quot; title=&quot;相关信息&quot;&gt;&lt;/a&gt;相关信息&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;公开时间:
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>培训体系之WEB安全</title>
+    <link href="https://p7e4.js.org/2020/07/30/web-training/"/>
+    <id>https://p7e4.js.org/2020/07/30/web-training/</id>
+    <published>2020-07-30T16:36:11.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Web安全&quot;&gt;&lt;a href=&quot;#Web安全&quot; class=&quot;headerlink&quot; title=&quot;Web安全&quot;&gt;&lt;/a&gt;Web安全&lt;/h1&gt;&lt;h2 id=&quot;WEB基础知识&quot;&gt;&lt;a href=&quot;#WEB基础知识&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>requests分块传输</title>
+    <link href="https://p7e4.js.org/2020/07/23/requests_chunk/"/>
+    <id>https://p7e4.js.org/2020/07/23/requests_chunk/</id>
+    <published>2020-07-23T22:15:06.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-分块传输&quot;&gt;&lt;a href=&quot;#1-分块传输&quot; class=&quot;headerlink&quot; title=&quot;1.分块传输&quot;&gt;&lt;/a&gt;1.分块传输&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/img/2020/Yw1jcgdlO3eGyVA.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python socket recv()</title>
+    <link href="https://p7e4.js.org/2020/06/27/py_socket_feature/"/>
+    <id>https://p7e4.js.org/2020/06/27/py_socket_feature/</id>
+    <published>2020-06-27T20:48:17.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在写一个简单的http库&lt;a href=&quot;https://github.com/p7e4/arequest&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一起来玩一些BAT的XSS实例</title>
+    <link href="https://p7e4.js.org/2020/06/26/bat_xss/"/>
+    <id>https://p7e4.js.org/2020/06/26/bat_xss/</id>
+    <published>2020-06-26T14:08:11.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天看先知看到了这个&lt;a href=&quot;https://xz.aliyun.com/t/7909&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://xz.aliyun.com/t/7909&lt;/a&gt;&lt;br&gt;顺便玩了一下，做下记录 
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年远光杯粤澳计算机程序设计大赛网络资格赛</title>
+    <link href="https://p7e4.js.org/2020/04/25/2020ygb-acm/"/>
+    <id>https://p7e4.js.org/2020/04/25/2020ygb-acm/</id>
+    <published>2020-04-25T20:32:00.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;Alice的秘密&quot;&gt;&lt;a href=&quot;#Alice的秘密&quot; class=&quot;headerlink&quot; title=&quot;Alice的秘密&quot;&gt;&lt;/a&gt;Alice的秘密&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/img/2020/mnPdtkXWxGI6AqK.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Redis getshell的几种方法</title>
+    <link href="https://p7e4.js.org/2020/04/18/redis_getshell/"/>
+    <id>https://p7e4.js.org/2020/04/18/redis_getshell/</id>
+    <published>2020-04-18T11:31:09.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Redis-getshell的几种方法&quot;&gt;&lt;a href=&quot;#Redis-getshell的几种方法&quot; class=&quot;headerlink&quot; title=&quot;Redis getshell的几种方法&quot;&gt;&lt;/a&gt;Redis
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>北师珠ACM题库刷题记录</title>
+    <link href="https://p7e4.js.org/2020/04/04/bsz_acm/"/>
+    <id>https://p7e4.js.org/2020/04/04/bsz_acm/</id>
+    <published>2020-04-04T11:12:59.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;莫名其妙被拉到一个acm比赛，那就试着刷一下题吧&lt;code&gt;-_-&lt;/code&gt;  &lt;/p&gt;
+&lt;h2 id=&quot;怡姐的游戏&quot;&gt;&lt;a href=&quot;#怡姐的游戏&quot; class=&quot;headerlink&quot; title=&quot;怡姐的游戏&quot;&gt;&lt;/a&gt;怡姐的游戏&lt;/h2&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一处有趣的反射型XSS</title>
+    <link href="https://p7e4.js.org/2020/02/14/a_xss/"/>
+    <id>https://p7e4.js.org/2020/02/14/a_xss/</id>
+    <published>2020-02-14T21:46:25.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一处有趣的反射型XSS&lt;/p&gt;
+&lt;h2 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h2&gt;&lt;p&gt;页面源码：  &lt;/p&gt;
+&lt;figure class=&quot;highlight
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hackbar 破解</title>
+    <link href="https://p7e4.js.org/2020/01/14/hackbar/"/>
+    <id>https://p7e4.js.org/2020/01/14/hackbar/</id>
+    <published>2020-01-14T21:46:25.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hackbar会请求hackbar.site/ping/进行注册码验证&lt;br&gt;有师傅做了个网站06m.me来返回验证成功&lt;br&gt;所以改一下hosts就行&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;149.129.101.18   
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>红帽杯线下赛</title>
+    <link href="https://p7e4.js.org/2019/11/24/2019redhat/"/>
+    <id>https://p7e4.js.org/2019/11/24/2019redhat/</id>
+    <published>2019-11-24T21:46:25.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天参加了2019红帽杯线下赛，比赛使用的是AWD PLUS赛制，这也是我第一次见到这种赛制&lt;/p&gt;
+&lt;p&gt;虽然叫AWD PLUS，其实我觉得应该改为CTF
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>广东省强网杯线下赛web1后门分析</title>
+    <link href="https://p7e4.js.org/2019/09/24/qwb_web1/"/>
+    <id>https://p7e4.js.org/2019/09/24/qwb_web1/</id>
+    <published>2019-09-24T21:46:25.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;D盾扫一下很快可以发现/inc/conn.php有一个后门了&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一本CTF书</title>
+    <link href="https://p7e4.js.org/2019/09/08/Hello/"/>
+    <id>https://p7e4.js.org/2019/09/08/Hello/</id>
+    <published>2019-09-08T20:46:25.000Z</published>
+    <updated>2021-06-19T09:49:21.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;分享一本CTF书&quot;&gt;&lt;a href=&quot;#分享一本CTF书&quot; class=&quot;headerlink&quot; title=&quot;分享一本CTF书&quot;&gt;&lt;/a&gt;分享一本CTF书&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;——“与其相信谣言，不如一直学习。”&lt;/p&gt;
+&lt;p&gt;GitHub
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
