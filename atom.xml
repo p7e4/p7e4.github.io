@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>p7e4</title>
+  
+  
+  <link href="https://p7e4.js.org/atom.xml" rel="self"/>
+  
+  <link href="https://p7e4.js.org/"/>
+  <updated>2023-09-19T14:47:41.681Z</updated>
+  <id>https://p7e4.js.org/</id>
+  
+  <author>
+    <name>p7e4</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Things end.</title>
+    <link href="https://p7e4.js.org/2098/12/31/end/"/>
+    <id>https://p7e4.js.org/2098/12/31/end/</id>
+    <published>2098-12-31T16:00:00.000Z</published>
+    <updated>2023-09-19T14:47:41.681Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
